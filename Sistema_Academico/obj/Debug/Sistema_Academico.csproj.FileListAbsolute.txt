@@ -1,0 +1,9 @@
+D:\Producto_Academico\Sistema_Academico\bin\Debug\Sistema_Academico.exe.config
+D:\Producto_Academico\Sistema_Academico\bin\Debug\Sistema_Academico.exe
+D:\Producto_Academico\Sistema_Academico\bin\Debug\Sistema_Academico.pdb
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.csprojResolveAssemblyReference.cache
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.Form1.resources
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.Properties.Resources.resources
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.csproj.GenerateResource.Cache
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.exe
+D:\Producto_Academico\Sistema_Academico\obj\Debug\Sistema_Academico.pdb
